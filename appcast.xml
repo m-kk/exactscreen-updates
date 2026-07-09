@@ -6,6 +6,11 @@
         <description>ExactScreen software update feed</description>
         <language>en</language>
         <item>
+            <title>ExactScreen 1.0.0</title>
+            <pubDate>Thu, 09 Jul 2026 15:18:32 -0500</pubDate>
+            <enclosure url="https://github.com/m-kk/exactscreen-updates/releases/download/v1.0.0/ExactScreen-1.0.0.zip" type="application/octet-stream" length="2922726" sparkle:version="4" sparkle:shortVersionString="1.0.0" sparkle:edSignature="GwZAGeCL6i5OKJIr1u+Wcy7JPMsVjQEaunb/KD8Bk06RNAIdmJHxKOpw8Q0D15iRYzATpggjFODu8SgNxqN3BA==" sparkle:minimumSystemVersion="14.0"></enclosure>
+        </item>
+        <item>
             <title>ExactScreen 0.1.2</title>
             <pubDate>Thu, 09 Jul 2026 13:01:43 -0500</pubDate>
             <enclosure url="https://github.com/m-kk/exactscreen-updates/releases/download/v0.1.2/ExactScreen-0.1.2.zip" type="application/octet-stream" length="2420240" sparkle:version="3" sparkle:shortVersionString="0.1.2" sparkle:edSignature="ls2UkiLI6SGjWA9QYzNE6rIMAXh9L+nv/xevx6+oRYgwMm3wBQl1rE9UMrBDf+bj+VEJC+Er5uH0I08mfDRDCA==" sparkle:minimumSystemVersion="14.0"></enclosure>
